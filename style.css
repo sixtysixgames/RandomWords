@@ -18,9 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     Created on : 7 Aug 2021, 10:59:41
     Author     : sixtysixgames
 */
-/*
-body styles
-*/
+/*body styles*/
 body { 	
 	margin: 0;
 	font-family: Arial, sans-serif;
@@ -33,9 +31,7 @@ body {
 
 form { display: inline; }
 
-/*
-table styles
-*/
+/*table styles*/
 table {
 	padding: 0;
 	margin: 0;
@@ -64,25 +60,19 @@ td.shaded {
 	background-color: #cccccc;
 }
 
-/*
-** paragraph styles
-*/
+/*paragraph styles*/
 p { margin-top: 1px;}
 
 p.small { font-size: x-small; }
 
-/*
-** link styles
-*/
+/*link styles*/
 a {text-decoration: none;}
 a:hover {text-decoration: underline;}
 a:visited {color: #000099;}
 
 a.small { font-size: x-small;}
 
-/*
-** header styles
-*/
+/*header styles*/
 h1 {
 	font-size: x-large;
 	margin: 4px 0;
@@ -117,14 +107,10 @@ h4 {
 	background: #eeeeee;
 }
 
-/*
-image styles
-*/
+/*image styles*/
 img.imagelink {border: 0;}
 
-/*
-div styles
-*/
+/*div styles*/
 div {margin: 0; padding: 0;}
 
 div.header {
@@ -165,9 +151,7 @@ div.footer {
 	margin-bottom: 0px;
 }
 
-/*
-sundry styles
-*/
+/*sundry styles*/
 form { display: inline; }
 hr { color: #ff0000; }
 
